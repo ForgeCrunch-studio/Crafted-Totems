@@ -15,7 +15,7 @@ Crafted Totems is a simple Minecraft mod that adds a crafting recipe for the **T
 ## 📦 Installation
 
 1. Install the required mod loader for your Minecraft version.
-2. Download the latest version of **Crafted Totems**.
+2. Download the latest version of **Crafted Totems**, You can get it here ['Crafted Totems'](https://modrinth.com/mod/crafted-totems)
 3. Place the `.jar` file into your Minecraft `mods` folder.
 4. Launch Minecraft and start crafting!
 
