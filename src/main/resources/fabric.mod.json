@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "crafted_totems",
+  "version": "1.0.0",
+  "name": "Crafted Totems",
+  "authors": [
+    "MCreator"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": ""
+  },
+  "license": "Not specified",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.craftedtotems.CraftedTotemsMod"
+    ],
+    "client": [
+      "net.mcreator.craftedtotems.CraftedTotemsModClient"
+    ]
+  },
+  "mixins": [
+    "crafted_totems.mixins.json"
+  ],
+  "accessWidener": "META-INF/crafted_totems.classtweaker",
+  "depends": {
+    "fabricloader": ">=0.18.2",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

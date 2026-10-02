@@ -1,0 +1,31 @@
+{
+  "_fv": 89,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "unlockingItems": [
+      "Items.NETHER_STAR"
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "EQUIPMENT",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      "Items.EMERALD",
+      "Blocks.SKULL#2",
+      "Items.EMERALD",
+      "Items.GOLD_INGOT",
+      "Items.NETHER_STAR",
+      "Items.GOLD_INGOT",
+      "Items.BLAZE_ROD",
+      "Blocks.GOLD_BLOCK",
+      "Items.BLAZE_ROD"
+    ],
+    "recipeReturnStack": "Items.TOTEM_OF_UNDYING",
+    "name": "totem_recipe",
+    "namespace": "mod"
+  }
+}

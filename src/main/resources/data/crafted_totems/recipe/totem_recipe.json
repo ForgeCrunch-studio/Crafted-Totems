@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "aba",
+    "cdc",
+    "efe"
+  ],
+  "key": {
+    "a": "minecraft:emerald",
+    "b": "minecraft:zombie_head",
+    "c": "minecraft:gold_ingot",
+    "d": "minecraft:nether_star",
+    "e": "minecraft:blaze_rod",
+    "f": "minecraft:gold_block"
+  },
+  "result": {
+    "id": "minecraft:totem_of_undying",
+    "count": 1
+  }
+}
