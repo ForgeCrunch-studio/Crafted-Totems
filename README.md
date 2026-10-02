@@ -26,14 +26,29 @@ Craft the **Totem of Undying** using the recipe added by this mod.
 > **Recipe:**
 <img width="1920" height="1080" alt="2026-10-02_16 42 48" src="https://github.com/user-attachments/assets/7fd666ae-b4af-4ecc-a251-eb7a0bbc18dc" />
 
+### Why was this recipe chosen?
 
-## 📖 Why?
+the recipe is expensive but that's the point, totems are valuable and we still want them to remain that way 
 
-Totems of Undying can normally only be obtained by defeating **Evokers**. Crafted Totems provides another option for players who want to obtain them through crafting and resource gathering.
+Emeralds -> villager connection -> illager connection -> connects to the Evokers that normally drop Totems of Undying.
+
+Zombie Head -> death connection -> represents the undead -> connects to the Totem of Undying's ability to prevent death.
+
+Nether Star -> one-time supernatural power -> comes from a dying Wither -> represents immense supernatural energy.
+
+Gold -> what the Totem appears to be made of -> valuable material -> makes sense as the main material for the totem.
+
+Blaze Rods -> energy from the Nether -> the Nether contains powerful materials and entities -> represents the supernatural energy needed to create the totem.
+
+Gold Block -> the base of the totem -> positioned at the bottom of the recipe -> resembles the base/body of a Totem of Undying.
+
+## 📖 Why this mod?
+
+Totems of Undying normally are only able to be obtained by defeating **Evokers**. Crafted Totems provides another option for players who want to obtain them through crafting and resource gathering.
 
 ## 🧱 Compatibility
 
-Crafted Totems is designed to be lightweight and should work alongside other mods without changing vanilla gameplay beyond the added crafting recipe.
+Crafted Totems is lightweight and should work alongside other mods without changing the vanilla gameplay.
 
 ## 🐛 Issues & Suggestions
 
@@ -51,10 +66,8 @@ Feel free to open an **Issue** on the GitHub repository with:
 
 Crafted Totems is licensed under the **ALL RIGHTS RESERVED License**.
 
-See the [`LICENSE`](LICENSE) file for the full license text.
+See the [`LICENSE`](LICENSE) file for the full license.
 
 ---
-
-### 🏭 Forge Crunch Studios
 
 Made by **Forge Crunch Studios**.
