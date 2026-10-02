@@ -24,7 +24,7 @@ Crafted Totems is a simple Minecraft mod that adds a crafting recipe for the **T
 Craft the **Totem of Undying** using the recipe added by this mod.
 
 > **Recipe:**
-<img width="300" height="141" alt="Totem_recipe" src="https://github.com/user-attachments/assets/148051ce-a117-4891-b85f-53d67624fb5f" />
+<img width="1920" height="1080" alt="2026-10-02_16 42 48" src="https://github.com/user-attachments/assets/7fd666ae-b4af-4ecc-a251-eb7a0bbc18dc" />
 
 
 ## 📖 Why?
