@@ -48,7 +48,9 @@ Feel free to open an **Issue** on the GitHub repository with:
 
 ## 📜 License
 
-See the `LICENSE` file for information about using, modifying, and distributing this project.
+Crafted Totems is licensed under the **MIT License**.
+
+See the [`LICENSE`](LICENSE) file for the full license text.
 
 ---
 
